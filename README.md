@@ -2,8 +2,8 @@
 
 [1701]
 
+* data
 * docs
   + papers
   + presentations
-* data
 * projects
