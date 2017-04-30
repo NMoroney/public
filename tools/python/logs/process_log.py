@@ -20,7 +20,7 @@ tables = re.findall('_predict#.*?----------', data, flags=re.DOTALL)
 number_tables = len(tables)
 # print "found " + str(number_tables) + " tables in the log"
 
-# print "first table "
+# print "first table : "
 # print tables[0]
 
 labels = []
