@@ -1,4 +1,3 @@
 
 ## Other
 
-* example photos?
